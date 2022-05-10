@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Preslav "@pursib" Barashki. Born in Botevgrad and 21 years old.
+- 👋 Hi, I’m Preslav "@pursib" Barashki. Born in Botevgrad and 22 years old.
 - 👀 I’m interested in programming Front-End and Back-End bouth in web development.
 - 🌱 I’m currently learning ReactJS and JavaScript. Already have some knowage about Java / CSS / HTML. Currently I study in SoftwareUniversity/Sofia/Bulgaria.
 - 💞️ I’m looking to collaborate on ...
